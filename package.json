@@ -1,10 +1,10 @@
 {
   "name": "basic-express-server",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "npx nodemon index.js"
+    "start": "node server.js",
+    "dev": "npx nodemon server.js"
   },
   "dependencies": {
     "compression": "^1.7.4",
